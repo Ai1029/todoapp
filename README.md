@@ -35,10 +35,10 @@
 
 ## 設計
 
-- [API 設計]()
+- [API 設計](https://github.com/Ai1029/todoapp/blob/main/API.md)
 - ER 図
 
-![image](?raw=true)
+![image](https://github.com/Ai1029/todoapp/blob/main/images/ER.png?raw=true)
 
 ## 環境構成
 
