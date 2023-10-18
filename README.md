@@ -4,7 +4,7 @@
 
 ## todo アプリ のスクリーンショット
 
-デプロイしたアプリを[AWS ECS]()で確認できます
+デプロイしたアプリを[AWS ECS](https://simpletodoapp.link/)で確認できます
 
 ![image](https://github.com/Ai1029/todoapp/blob/main/images/desktop.png?raw=true)
 
